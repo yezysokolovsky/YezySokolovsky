@@ -1,9 +1,0 @@
-{
-  "rows": 2880,
-  "cols": 6,
-  "best_model": "Gradient Boosting",
-  "best_rmse": 0.904696755925705,
-  "best_mae": 0.47483767835544755,
-  "best_r2": 0.6643039408863602,
-  "anomalies": 34
-}
